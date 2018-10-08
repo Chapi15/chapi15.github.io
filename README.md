@@ -1,0 +1,3 @@
+# chapi15.github.io
+Website used for the "Web Engineering" course during my exchange program at Unican
+This is purely for an academic purpose, nothing more...
