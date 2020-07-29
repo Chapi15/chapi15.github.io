@@ -15,3 +15,10 @@ A site used to show some of my personal and academic projects. I also talk a bit
 - [ ] Tic - tac - toe 
 - [ ] Self - driving Car
 - [ ] PID Controller for Coupled Electric Motors
+
+## Webpage Sections (WIP)
+- [ ] Home
+- [ ] Projects
+- [ ] Journal/Blog
+- [ ] About Me
+- [ ] Contact
