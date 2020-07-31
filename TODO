@@ -1,8 +1,18 @@
 - Wireframes
+    * Use Figma
+
 - Dropdown for projects page (CSS)
+    * Add <li> tags
+    * Fix list structure (https://www.w3schools.com/css/css_navbar_horizontal.asp)
+
 - Get social media buttons for contact page
+    * Wordpress
+    * Online Media Library
+
 - Look for a platform for the COVID19 journal project 
     * Git Journal (https://gitjournal.io)
     * Wordpress
     * Jekyll
+
 - Create Spanish version of page
+    * For each page a different link
