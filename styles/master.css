@@ -1,3 +1,13 @@
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #4a5db1;
+    text-decoration: none;
+  }
+
 body {
     font-family: Arial;
     padding: 10px;
