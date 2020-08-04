@@ -5,6 +5,7 @@
 - Dropdown for projects page (CSS)
     * Add <li> tags
     * Fix list structure (https://www.w3schools.com/css/css_navbar_horizontal.asp)
+        * All pages
 
 - Get social media buttons for contact page
     * Wordpress
@@ -14,7 +15,3 @@
     * Git Journal (https://gitjournal.io)
     * Wordpress
     * Jekyll
-
-- Create Spanish version of page
-    * For each page a different link
-    * Modify properties of links
